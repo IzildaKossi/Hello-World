@@ -1,5 +1,6 @@
 # ProjetoIPOO
 
+### Projeto de IPOO com Java e BlueJ
 
 O objetivo deste projeto é desenvolver uma aplicação, utilizando a linguagem Java e a Programação
 Orientada por Objetos (POO), com o intuito de gerir e simular a atividade de distribuição de mercadorias
