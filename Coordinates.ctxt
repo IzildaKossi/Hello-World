@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=latitude\ longitude
+comment0.target=Coordinates(float,\ float)
+comment0.text=COnstrutor
+comment1.params=newLatitude\ newLongitude
+comment1.target=boolean\ isValidCoordinates(float,\ float)
+comment1.text=Met\u00F3do\ para\ validar\ a\ latitude\ e\ longitude
+comment2.params=newLatitude
+comment2.target=boolean\ isLatitudeValid(float)
+comment2.text=Met\u00F3do\ para\ validar\ latitude
+comment3.params=newLongitude
+comment3.target=boolean\ isLongitudeValid(float)
+comment3.text=Met\u00F3do\ para\ validar\ longitude
+comment4.params=other
+comment4.target=double\ getDistance(Coordinates)
+comment4.text=Met\u00F3do\ que\ calcula\ a\ distancia\ entre\ dois\ posi\u00E7\u00E3o\ atrav\u00E9s\ da\ dist\u00E2ncia\ euclidiana
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=float\ getLatitude()
+comment7.params=latitude
+comment7.target=void\ setLatitude(float)
+comment8.params=
+comment8.target=float\ getLongitude()
+comment9.params=longitude
+comment9.target=void\ setLongitude(float)
+numComments=10
