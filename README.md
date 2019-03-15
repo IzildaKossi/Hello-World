@@ -17,3 +17,8 @@ Na secção seguinte são apresentados os detalhes a considerar na implementaç�
 
 ### Diagrama 
 ![](diagrama.png)
+
+### Simulação 
+![](sim_0.png)
+![](sim_1.png)
+![](sim_2.png)
