@@ -13,3 +13,7 @@ lojas.
  Garagens onde os camiões estão estacionados e que efetuam operações de inspeção e
 manutenção desses camiões.
 Na secção seguinte são apresentados os detalhes a considerar na implementação do projeto.
+
+
+##Diagrama 
+![](diagrama.png)
